@@ -1,0 +1,13 @@
+# Java
+*.class
+
+# Build
+/bin/
+/target/
+
+# Mac lixo
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
