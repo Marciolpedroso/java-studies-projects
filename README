@@ -1,0 +1,66 @@
+# Java Studies - Basic ☕
+
+This repository contains my initial studies in Java, focusing on core language fundamentals, programming logic, and basic best practices.
+
+---
+
+## 📚 Contents
+
+* Conditional statements (if, else, switch)
+* Loops (for, while, do-while)
+* Variables and data types
+* Methods and functions
+* Input and output
+* Practical exercises
+
+---
+
+## 🛠️ Technologies
+
+* Java
+* VS Code
+
+---
+
+## 🚀 Purpose
+
+To build a strong foundation in Java and progress toward backend development and more advanced projects.
+
+---
+
+## 📂 Project Structure
+
+```bash
+src/
+ ├── Main.java
+ ├── examples/
+ ├── exercises/
+```
+
+---
+
+## ▶️ How to Run
+
+1. Compile the project:
+
+```bash
+javac Main.java
+```
+
+2. Run:
+
+```bash
+java Main
+```
+
+---
+
+## 📌 Notes
+
+This repository is part of my Software Engineering learning journey.
+
+---
+
+## 👨‍💻 Author
+
+Marcio
